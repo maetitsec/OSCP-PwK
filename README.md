@@ -1,6 +1,6 @@
 # OSCP Prep Notes
 
-Welcome to my learning notes for OSCP by OffensiveSecurity. I will update the metrials here during my 30 days course time.
+Welcome to my learning notes for OSCP by OffensiveSecurity.
 
 ## Taking Proof files
 
